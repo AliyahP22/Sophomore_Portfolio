@@ -6,7 +6,7 @@ h1{
   text-decoration:underline;
 }
 body{
-  background-color:PaleTurquoise;
+  background-image:linear-gradient(to bottom right, violet,orchid,lavenderblush);
 }
 .banner{
   margin:15px;
