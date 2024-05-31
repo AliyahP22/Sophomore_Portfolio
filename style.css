@@ -28,4 +28,13 @@ ul{
     overflow:hidden;
     background-color:DEB8FA;
   }
+li{
+  float:left;
+}
+li a, .dropBtn{
+  display:inline-block;
+  color:CornflowerBlue;
+  text-align:center;
+  padding:12px 14px;
+}
 
