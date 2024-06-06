@@ -37,4 +37,6 @@ li a, .dropBtn{
   text-align:center;
   padding:12px 14px;
 }
-
+.nav{
+   display: flex; justify-content: center; align-items: center;
+}
