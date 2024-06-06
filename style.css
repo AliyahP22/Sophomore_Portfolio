@@ -40,3 +40,8 @@ li a, .dropBtn{
 .nav{
    display: flex; justify-content: center; align-items: center;
 }
+p{
+  text-align:center;
+  font-weight:bold;
+  text-shadow:2px 2px white;
+}
